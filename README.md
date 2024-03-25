@@ -20,3 +20,13 @@ Here are some of my projects:
 
 [demo-trading-bot]:https://github.com/Laughteryache/Demo-Trading-Bot
 [kotomania]:https://github.com/Laughteryache/Kotomania_telegram_bot
+
+## 📨 Contacts
+ - Email: laughteryache@gmail.com
+ - Telegram: [@l1ughter][tg-link]
+ - X: [@Laughteryache][x-link]
+
+
+
+ [tg-link]:https://t.me/l1ughter
+ [x-link]:https://twitter.com/laughterya59514
