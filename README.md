@@ -10,6 +10,10 @@
 ## 💼 My projects
 Here are some of my projects:
 
+**Financial API**
+- 📝 Description: Simple async API on Python to track your financial flows
+- 📁 Repository: [Financial API][financial-api]
+
 **Training Traiding Bot**
 - 📝 Description: Telegram Bot for demo traiding of few cryptocurrencies
 - 📁 Repository: [Demo Trading Bot][demo-trading-bot]
@@ -18,9 +22,6 @@ Here are some of my projects:
 - 📝 Description: Just clicker that I create for fun (for each click you recieve picture of cat)
 - 📁 Repository: [Kotomania Bot][kotomania]
 
-[demo-trading-bot]:https://github.com/Laughteryache/Demo-Trading-Bot
-[kotomania]:https://github.com/Laughteryache/Kotomania_telegram_bot
-
 ## 📨 Contacts
  - Email: laughteryache@gmail.com
  - Telegram: [@l1ughter][tg-link]
@@ -28,5 +29,9 @@ Here are some of my projects:
 
 
 
- [tg-link]:https://t.me/l1ughter
- [x-link]:https://twitter.com/laughterya59514
+[tg-link]:https://t.me/l1ughter
+[x-link]:https://twitter.com/laughterya59514
+
+[financial-api]:https://github.com/Laughteryache/Financial-API
+[demo-trading-bot]:https://github.com/Laughteryache/Demo-Trading-Bot
+[kotomania]:https://github.com/Laughteryache/Kotomania_telegram_bot
