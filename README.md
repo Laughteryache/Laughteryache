@@ -15,6 +15,7 @@ Here are some of my projects:
 - 📁 Repository: [Financial API][financial-api]
 
 **Training Traiding Bot**
+- 👥 Co-authors: [@Everi59][everi-59-link]
 - 📝 Description: Telegram Bot for demo traiding of few cryptocurrencies
 - 📁 Repository: [Demo Trading Bot][demo-trading-bot]
 
@@ -35,3 +36,4 @@ Here are some of my projects:
 [financial-api]:https://github.com/Laughteryache/Financial-API
 [demo-trading-bot]:https://github.com/Laughteryache/Demo-Trading-Bot
 [kotomania]:https://github.com/Laughteryache/Kotomania_telegram_bot
+[everi-59-link]:https://github.com/everi59
