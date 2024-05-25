@@ -4,9 +4,8 @@
 - HTML & CSS
 - Python (FastAPI, Pydantic, Alembic, SQLAlchemy, aiogram)
 - Git
-## 📋 Plan to study
-- JavaScript (React)
-- Solidity
+## 📋 I'm learning
+- Computer Science
 ## 💼 My projects
 Here are some of my projects:
 
